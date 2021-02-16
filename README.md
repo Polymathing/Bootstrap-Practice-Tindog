@@ -11,7 +11,7 @@ The main framework is Bootstrap and its components, such as: Carousel, Card, But
 
 ![](https://github.com/Polymathing/Maicon_Portfolio/blob/main/images/Tindog/1.png?raw=true)
 
-![](https://github.com/Polymathing/Maicon_Portfolio/blob/main/images/Tindog/2.png?raw=true)
+![](https://github.com/Polymathing/Maicon_Portfolio/blob/main/images/Tindog/2-edited.png?raw=true)
 
 ![](https://github.com/Polymathing/Maicon_Portfolio/blob/main/images/Tindog/3.png?raw=true)
 
